@@ -1,4 +1,4 @@
-module golang.org/x/tools
+module golang.org/adamhassel/tools
 
 go 1.17
 
